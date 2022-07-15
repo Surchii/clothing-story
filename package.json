@@ -47,5 +47,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Surchii/clothing-story.git",
+  "author": "Ahmed <Ahmed_surchi@hotmail.se>",
+  "license": "MIT"
 }
